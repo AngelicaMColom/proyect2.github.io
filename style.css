@@ -27,9 +27,9 @@ body{
 
 .box{
   margin: 20px;
-    text-align: justify;
-    display: flex;
-    flex-direction: column;
+  text-align: justify;
+  display: flex;
+  flex-direction: column;
 }
 
 .box button {
